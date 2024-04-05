@@ -12,7 +12,7 @@ An straightforward Chatbot UI modified to integrate with Flowise.
 ## Key Features
 
 -   Clean and Minimalist Design: The UI prioritizes a sleek aesthetic.
--   Fully resoponsive on mobile
+-   Fully responsive on mobile
 
 ## Usage Instructions
 
