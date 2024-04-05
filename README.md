@@ -1,5 +1,7 @@
 # Minimalist Chatbot UI for Flowise
 
+<img width="1322" alt="Screenshot 2024-04-05 144151" src="https://i.ibb.co/ncR98YT/Screenshot-2024-04-05-181743.png">
+
 ## Demo
 http://chatbot.flowise.surge.sh
 
