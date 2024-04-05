@@ -2,7 +2,7 @@
 
 <img width="100%" alt="Screenshot 2024-04-05 144151" src="https://i.ibb.co/ncR98YT/Screenshot-2024-04-05-181743.png">
 
-## Demo
+## Live Demo
 http://chatbot.flowise.surge.sh
 
 ## Description
